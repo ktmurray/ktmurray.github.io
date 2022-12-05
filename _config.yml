@@ -6,4 +6,4 @@ author:
 description: "Information about Katie, Science Support Analyst I at STScI"
 
 # Build settings
-remote_theme: daviddarnes/alembic
+remote_theme: "daviddarnes/alembic"
